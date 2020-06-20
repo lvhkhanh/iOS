@@ -14,3 +14,4 @@
 |   |  Section |Row   |   |   |
 |   |  HStack |Row   |   |   |
 |   |  VStack |  Column |   |   |
+|   |  Spacer() |  `<div data-hold="maximum as posible"/>` |   |   |
