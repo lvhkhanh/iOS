@@ -7,8 +7,10 @@
 ## Mapping
 |   |  SwiftUI | HTML  |   |   |
 |---|---|---|---|---|
-|   | Text  | <input type="text"/>  |   |   |
-|   |  Button | <button/>  |   |   |
+|   | Text("A span text")  | <span>A span text</span>  |   |   |
+|   | TextField("placeholder", "value")  | `<input placehoder="placeholder" value="value" type="text"/>`  |   |   |
+|   |  Button("label"){action()} | `<button value="value" onclick="handle()"/>`  |   |   |
 |   |  List | <ol><li></li><li></li></ol>,<ul><li></li><li></li></ul>  |   |   |
+|   |  Section |Row   |   |   |
 |   |  HStack |Row   |   |   |
 |   |  VStack |  Column |   |   |
