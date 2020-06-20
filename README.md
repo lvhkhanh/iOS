@@ -16,3 +16,7 @@
 |   |  HStack |Row   |   |   |
 |   |  VStack |  Column |   |   |
 |   |  Spacer() |  `<div data-hold="maximum as posible"/>` |   |   |
+
+## Storage
+### In-memory
+### Long term, persistent
