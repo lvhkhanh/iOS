@@ -9,6 +9,7 @@
 |---|---|---|---|---|
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
 |   | TextField("placeholder", "value")  | `<input placehoder="placeholder" value="value" type="text"/>`  |   |   |
+|   |  Toogle("Label:") |`<label>Label: <input type="checkbox"></label>`   |   |   |
 |   |  Button("label"){action()} | `<button value="value" onclick="handle()"/>`  |   |   |
 |   |  List | <ol><li></li><li></li></ol>,<ul><li></li><li></li></ul>  |   |   |
 |   |  Section |Row   |   |   |
