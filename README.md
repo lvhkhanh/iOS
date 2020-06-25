@@ -19,6 +19,12 @@
 |   |  VStack |  Column |   |   |
 |   |  Spacer() |  `<div data-hold="maximum as posible"/>` |   |   |
 
+
+|   |  Swift | Kotlin  |   |   |
+|---|---|---|---|---|
+|   | let a = "A"  | val a = "A"  |   |   |
+|   | var a = "A"  | var a = "A"  |   |   |
+
 ## Storage
 ### In-memory
 ### Long term, persistent
