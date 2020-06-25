@@ -46,3 +46,7 @@
 `
 reducer = old state + action => new state
 `
+#### Subcriber, Selector
+`
+subcriber,selector = listen on single source truth changes
+`
