@@ -36,3 +36,9 @@
 ### https://www.hackingwithswift.com/quick-start/swiftui
 ### https://medium.com/mutualmobile/swift-ui-part-2-starting-with-swift-ui-9b3013db8efd
 ### https://www.adjust.com/blog/get-started-with-swiftui/
+## State Management
+### Redux
+#### Store
+`
+ store = state + reducer
+`
