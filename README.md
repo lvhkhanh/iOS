@@ -42,3 +42,7 @@
 `
  store = state + reducer
 `
+#### Reducer
+`
+reducer = old state + action => new state
+`
