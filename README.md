@@ -4,6 +4,8 @@
 ## Prerequisite
 ### Swift
 #### https://www.codecademy.com/learn/learn-swift 25h
+## Paths
+### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum)
 ## Courses
 ### https://app.pluralsight.com/library/courses/build-first-swiftui-app/table-of-contents
 ## Mapping
@@ -24,7 +26,7 @@
 |---|---|---|---|---|
 |   | let a = "A"  | val a = "A"  |   |   |
 |   | var a = "A"  | var a = "A"  |   |   |
-|   | struct Student {let name: String \n var age: Int = 18}  | data class Student(val name: String, var age: Int)  |   |   |
+|   | struct Student {let name: String <br/> var age: Int = 18}  | data class Student(val name: String, var age: Int)  |   |   |
 
 ## Storage
 ### In-memory
