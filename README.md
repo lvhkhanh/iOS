@@ -24,6 +24,7 @@
 |---|---|---|---|---|
 |   | let a = "A"  | val a = "A"  |   |   |
 |   | var a = "A"  | var a = "A"  |   |   |
+|   | struct Student {let name: String \n var age: Int = 18}  | data class Student(val name: String, var age: Int)  |   |   |
 
 ## Storage
 ### In-memory
