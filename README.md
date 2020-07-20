@@ -8,6 +8,9 @@
 ### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum)
 ## Courses
 ### https://app.pluralsight.com/library/courses/build-first-swiftui-app/table-of-contents
+### https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 1month
+### https://www.udacity.com/course/uikit-fundamentals--ud788 2month
+### https://www.edx.org/course/build-your-very-first-ios-app 8weeks
 ## Mapping
 |   |  SwiftUI | HTML  |   |   |
 |---|---|---|---|---|
