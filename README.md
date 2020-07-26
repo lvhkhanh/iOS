@@ -17,8 +17,9 @@
 ### https://www.udacity.com/course/uikit-fundamentals--ud788 2month
 ### https://www.edx.org/course/build-your-very-first-ios-app 8weeks
 ## Mapping
-|   |  SwiftUI | HTML  |   |   |
+|   |  SwiftUI | HTML  |Swift   |Kotlin   |
 |---|---|---|---|---|
+|   |   |   |Protocol   |   |
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
 |   | TextField("placeholder", "value")  | `<input placehoder="placeholder" value="value" type="text"/>`  |   |   |
 |   |  Toogle("Label:") |`<label>Label: <input type="checkbox"></label>`   |   |   |
