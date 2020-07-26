@@ -22,6 +22,7 @@
 ## Mapping
 |   |  SwiftUI | HTML  |Swift   |Kotlin   |
 |---|---|---|---|---|
+|   |   |   |self.property   |this.property   |
 |   |   |   |UILabel!   |String?   |
 |   |   |   |Protocol   |   |
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
