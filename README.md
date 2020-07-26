@@ -7,6 +7,7 @@
 ### https://developer.apple.com/swift/
 ### https://developer.apple.com/xcode/swiftui/
 ### https://github.com/apple/swift
+### https://www.apple.com/education/docs/App_Development_with_Swift_Curriculum_Guide.pdf
 ## Prerequisite
 ### Swift
 #### https://www.codecademy.com/learn/learn-swift 25h
