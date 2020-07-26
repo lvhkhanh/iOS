@@ -43,6 +43,8 @@
 ## Storage
 ### In-memory
 ### Long term, persistent
+## Design
+### https://designcode.io/ios11
 ## Links
 ### https://www.raywenderlich.com/3715234-swiftui-getting-started
 ### https://www.hackingwithswift.com/quick-start/swiftui
