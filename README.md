@@ -22,6 +22,7 @@
 ## Mapping
 |   |  SwiftUI | HTML  |Swift   |Kotlin   |
 |---|---|---|---|---|
+|   |   |   |UILabel!   |String?   |
 |   |   |   |Protocol   |   |
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
 |   | TextField("placeholder", "value")  | `<input placehoder="placeholder" value="value" type="text"/>`  |   |   |
