@@ -1,15 +1,15 @@
     var count = 0
-    var label = UILabel!
+    @IBOutlet var label = UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // label
-        let label = UILabel()
-        label.frame = CGRect(x: 150, y: 150, width: 60, height: 60)
-        label.text = "0"
-        view.addSubview(label)
-        self.label = label
+//         // label
+//         let label = UILabel()
+//         label.frame = CGRect(x: 150, y: 150, width: 60, height: 60)
+//         label.text = "0"
+//         view.addSubview(label)
+//         self.label = label
         
         // button
         let button = UIButton()
