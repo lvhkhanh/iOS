@@ -1,4 +1,6 @@
     var count = 0
+    // property
+    // A view in Storyboard needs an outlet if it needs to be modified programmatically.
     @IBOutlet var label = UILabel!
     
     override func viewDidLoad() {
@@ -22,7 +24,9 @@
         
     }
     
-    @objc func incrementCount() {
+    // method
+    // A view in Storyboard needs an action if it is expected to respond to user input.
+    @IBAction func incrementCount() {
         self.count += 1
         self.label.text = "\(self.count)"
     }
