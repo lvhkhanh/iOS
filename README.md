@@ -22,9 +22,12 @@
 ## Mapping
 |   |  SwiftUI | HTML  |Swift   |Kotlin   |
 |---|---|---|---|---|
+|   |   |   |`var names: [String] = ["n1", "n2"]`   | `Array<String>`   |
 |   |   |   |self.property   |this.property   |
 |   |   |   |UILabel!   |String?   |
-|   |   |   |Protocol   |   |
+|   |   |   |`func myFunction(n1, n2){return n1 + n2}`   |`fun myFunction(n1, n2){return n1 + n2}`   |
+|   |   |   |`protocol Animal{ func move(){}} class Cat: Animal {func move(){print("cat move")}}`   | `interface Animal{ fun move(){}} class Cat: Animal {override fun move(){print("cat move")}}`   |
+|   |   |   |`extension`   | `override`   |
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
 |   | TextField("placeholder", "value")  | `<input placehoder="placeholder" value="value" type="text"/>`  |   |   |
 |   |  Toogle("Label:") |`<label>Label: <input type="checkbox"></label>`   |   |   |
