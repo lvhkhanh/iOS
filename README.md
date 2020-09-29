@@ -27,6 +27,7 @@
 |   |   |   |UILabel!   |String?   |
 |   |   |   |`func myFunction(n1, n2){return n1 + n2}`   |`fun myFunction(n1, n2){return n1 + n2}`   |
 |   |   |   |`protocol Animal{ func move(){}} class Cat: Animal {func move(){print("cat move")}}`   | `interface Animal{ fun move(){}} class Cat: Animal {override fun move(){print("cat move")}}`   |
+|   |   |   |`weak`   | ``   |
 |   |   |   |`delegate`   | ``   |
 |   |   |   |`extension`   | `override`   |
 |   | Text("A span text")  | <span>A span text</span>  |   |   |
