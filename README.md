@@ -15,6 +15,7 @@
 ### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum)
 ### https://www.coursera.org/programs/b0a28d35-70b0-4126-bfa1-27d2636e6420/browse?query=iOS
 ## Courses
+### https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351 Approx. 2 Days
 ### https://www.tutorialspoint.com/swift/index.htm
 ### https://app.pluralsight.com/library/courses/build-first-swiftui-app/table-of-contents
 ### https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 1month
