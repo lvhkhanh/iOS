@@ -77,3 +77,5 @@ reducer = old state + action => new state
 `
 subcriber,selector = listen on single source truth changes
 `
+### Info.plist
+#### Localization
