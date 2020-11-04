@@ -79,3 +79,5 @@ subcriber,selector = listen on single source truth changes
 `
 ### Info.plist
 #### Localization
+## Tools
+### https://flutter.dev/docs/deployment/ios
