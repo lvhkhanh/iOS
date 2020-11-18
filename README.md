@@ -11,6 +11,8 @@
 ## Prerequisite
 ### Swift
 #### https://www.codecademy.com/learn/learn-swift 25h
+## Ebooks
+### https://www.syncfusion.com/ebooks/ios
 ## Paths
 ### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum)
 ### https://www.coursera.org/programs/b0a28d35-70b0-4126-bfa1-27d2636e6420/browse?query=iOS
