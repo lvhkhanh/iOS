@@ -24,6 +24,7 @@
 ### https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585 1month
 ### https://www.udacity.com/course/uikit-fundamentals--ud788 2month
 ### https://www.edx.org/course/build-your-very-first-ios-app 8weeks
+### [Build Basic iOS Apps with Swift](https://trello.com/c/MNp5USLo/41-build-basic-ios-apps-with-swift-february-march-2021)
 ## Mapping
 |   |  SwiftUI | HTML  |Swift   |Kotlin   |
 |---|---|---|---|---|
