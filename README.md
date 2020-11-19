@@ -14,7 +14,9 @@
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/ios
 ## Paths
-### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum)
+### [Mobile App Development with Swift](https://www.edx.org/professional-certificate/curtinx-mobile-app-development-with-swift) 240h
+### [Beginning iOS App Development Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd006/syllabus/core-curriculum) 240h
+### [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003) 240h
 ### https://www.coursera.org/programs/b0a28d35-70b0-4126-bfa1-27d2636e6420/browse?query=iOS
 ## Courses
 ### https://www.udacity.com/course/firebase-analytics-ios--ud353 Approx. 1 Days
