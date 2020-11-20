@@ -86,7 +86,8 @@ subcriber,selector = listen on single source truth changes
 #### Localization
 ## Tools
 ### https://flutter.dev/docs/deployment/ios
-## Wrapper
+## Next
 ### Flutter
 ### React Native
 ### Xamarin
+### [NativeScript](https://nativescript.org/)
