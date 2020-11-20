@@ -90,4 +90,5 @@ subcriber,selector = listen on single source truth changes
 ### Flutter
 ### React Native
 ### Xamarin
+### [Ionic](https://ionicframework.com/)
 ### [NativeScript](https://nativescript.org/)
