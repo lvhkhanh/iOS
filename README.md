@@ -9,6 +9,8 @@
 ### https://github.com/apple/swift
 ### https://www.apple.com/education/docs/App_Development_with_Swift_Curriculum_Guide.pdf
 - [ ] https://developer.apple.com/videos/all-videos/?q=swiftui
+- [ ] https://developer.apple.com/documentation/swiftui/
+- [ ] https://developer.apple.com/videos/developer-tools/xcode/
 - [x] https://developer.apple.com/tutorials/swiftui/
 ## Prerequisite
 ### Swift
@@ -30,6 +32,7 @@
 ### https://www.edx.org/course/build-your-very-first-ios-app 8weeks
 ### [Build Basic iOS Apps with Swift](https://trello.com/c/MNp5USLo/41-build-basic-ios-apps-with-swift-february-march-2021)
 ### https://online.stanford.edu/courses/xacs215-mobile-security
+- [ ] https://www.hackingwithswift.com/quick-start/swiftui
 - [x] https://app.pluralsight.com/library/courses/face-touch-id-authentication-ios-swift-5
 ## Mapping
 |   |  SwiftUI | HTML  |Swift   |Kotlin   |
@@ -67,7 +70,11 @@
 ## Tools
 ### Jazzy https://github.com/realm/jazzy
 ## Links
-### https://www.raywenderlich.com/3715234-swiftui-getting-started
+- [ ] https://www.raywenderlich.com/3715234-swiftui-getting-started
+- [ ] https://designcode.io/swiftui2-course
+- [ ] https://designcode.io/swiftui-course
+- [ ] https://www.hackingwithswift.com/100/swiftui
+### https://swiftuimasterclass.com/
 ### https://www.hackingwithswift.com/quick-start/swiftui
 ### https://medium.com/mutualmobile/swift-ui-part-2-starting-with-swift-ui-9b3013db8efd
 ### https://www.adjust.com/blog/get-started-with-swiftui/
