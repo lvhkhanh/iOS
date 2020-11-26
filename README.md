@@ -8,6 +8,7 @@
 ### https://developer.apple.com/xcode/swiftui/
 ### https://github.com/apple/swift
 ### https://www.apple.com/education/docs/App_Development_with_Swift_Curriculum_Guide.pdf
+- [ ] https://developer.apple.com/videos/all-videos/?q=swiftui
 - [x] https://developer.apple.com/tutorials/swiftui/
 ## Prerequisite
 ### Swift
