@@ -23,6 +23,7 @@
 ### [Become an iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003) 240h
 ### https://www.coursera.org/programs/b0a28d35-70b0-4126-bfa1-27d2636e6420/browse?query=iOS
 ## Courses
+- [ ] https://app.pluralsight.com/library/courses/ios-app-development-big-picture/table-of-contents 1h 24m
 ### https://www.udacity.com/course/firebase-analytics-ios--ud353 Approx. 1 Days
 ### https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351 Approx. 2 Days
 ### https://www.tutorialspoint.com/swift/index.htm
